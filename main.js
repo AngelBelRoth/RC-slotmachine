@@ -26,8 +26,13 @@ document.querySelector('.reel2 img').src=images [img2]
 let img3 = Math.floor(Math.random()*images.length)
 document.querySelector('.reel3 img').src=images [img3]
 
-if(img1 == img2 && img3 == img2){
+if(img1 == img2 && img2 == img3){
   coins += bet*10
+document.querySelector('span.coins').innertext = coins
+}
+
+if(img1 == img2 || img1 == img3 || img3 == img2){
+  coins += bet*2
 document.querySelector('span.coins').innertext = coins
 }
 }
