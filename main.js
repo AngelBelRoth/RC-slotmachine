@@ -36,3 +36,5 @@ if(img1 == img2 || img1 == img3 || img3 == img2){
 document.querySelector('span.coins').innertext = coins
 }
 }
+
+// Sherrell Primo & Michael Kazin helped me
