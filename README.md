@@ -14,12 +14,9 @@ Built with Javascript, it’s ideal for showcasing your interactive game design,
 ## 🧩 Features
 
 - 🪙 Insert coins / tokens and select snack items  
-- 🎯 Dispense animation and sound effects  
+- 🎯 Dispense animation
 - 📦 Inventory management of snack products (stock, refill, restock)  
-- 💡 Score tracking based on successful dispenses vs. failures  
-- 🔁 Retry or reset mechanics, maybe mini-game or challenge mode  
-- 🎨 UI interface mimicking a real-life snack machine with interactive buttons  
-- 📱 (Optional) Responsive or 2D/3D presentation suitable for web/desktop/mobile  
+- 🔁 Retry or reset mechanics, mini-game or challenge mode  
 
 ---
 
